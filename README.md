@@ -15,4 +15,4 @@ A simple cookbook repository used to override the configuration files setup in o
   * Edit the application(s) configuration file(s).
   * This is the configuration that will be installed.
 
-Maintained by the RightScale White Team
+Maintained by the RightScale ServerTemplate Team
